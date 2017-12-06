@@ -67,7 +67,4 @@ Social networks connects people all around the world and we thought to use those
 
 #Doctor Finder Team
 
-* [Giovanni Giampaolo] (https://www.linkedin.com/in/giampaologiovanni) 
-* [Francesco Starna] (https://it.linkedin.com/in/francesco-starna-754914b5/it)
 * [Vincenzo D'Elia] (https://it.linkedin.com/in/vincenzodelia)
-* [Federico Bacci] (https://it.linkedin.com/in/federico-bacci-a18462a8/it)
