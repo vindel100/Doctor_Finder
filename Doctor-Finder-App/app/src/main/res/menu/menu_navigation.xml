@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <item
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="@string/profile"
+            android:id="@+id/profile"/>
+        <item
+            android:icon="@drawable/ic_book_white_24dp"
+            android:title="@string/gestisci"
+            android:id="@+id/gestisci" />
+        <item
+            android:icon="@drawable/ic_person_add_white_24dp"
+            android:title="@string/suggerisci"
+            android:id="@+id/suggerisci" />
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <item
+                android:icon="@drawable/ic_info_white_24dp"
+                android:title="@string/about"
+                android:id="@+id/about"/>
+            <item
+                android:icon="@drawable/ic_help_white_24dp"
+                android:title="@string/support"
+                android:id="@+id/support"/>
+            <item
+                android:id="@+id/like"
+                android:title="@string/like"
+                android:icon="@drawable/com_facebook_favicon_white" />
+
+        <item
+            android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            app:showAsAction="never"
+            android:icon="@drawable/ic_menu_manage"/>
+
+        <item android:title="@string/logout"
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_exit_to_app_white_24dp"/>
+        <item android:title="@string/exit"
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_exit_to_app_white_24dp"/>
+
+
+    </group>
+
+</menu>
