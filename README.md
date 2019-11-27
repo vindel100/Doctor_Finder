@@ -34,8 +34,6 @@ Social networks connects people all around the world and we thought to use those
 
 
 #Milestone 1 - Proof of Concept
-
-* [First survey](http://www.survio.com/survey/d/F7N6K8Y2D5X5W9Q9N)
 * [Results first survey](https://www.mediafire.com/convkey/a2e8/04qe2mddku2sdul6g.jpg) (Results at 15/15/2015)
 * [Presentation] (https://docs.google.com/presentation/d/1e2ooDbdLt6EfoGjudyGUOKhif2DCc-I7rrsz6rbCGII/edit?usp=sharing) 
 * [#1 Demo video] (https://www.youtube.com/watch?v=2BP3yFm4s44)
